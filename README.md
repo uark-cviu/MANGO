@@ -21,7 +21,7 @@ The training and testing code will be released soon.
 
 A part of the codebase of this project is borrowed from [TokenFusion](https://github.com/yikaiw/TokenFusion).
 
-This work is partly supported by NSF CAREER (No. 2442295), NSF SCH (No. 2501021), NSF E-RISE (No. 2445877), NSF SBIR Phase 2 (No. 2247237) and USDA/NIFA Award. We also acknowledge the Arkansas High-Performance Computing Center (HPC) for GPU servers.
+This work is partly supported by NSF CAREER (No. 2442295), NSF SCH (No. 2501021), NSF E-RISE (No. 2445877), NSF SBIR Phase 2 (No. 2247237) and USDA/NIFA Award. We also acknowledge the Arkansas High-Performance Computing Center (HPC) for GPU servers. Nitin Agarwal’s participation was supported by U.S. NSF (OIA-1946391, OIA-1920920), AFOSR (FA9550-22-1-0332), ARO (W911NF-23-1-0011, W911NF-24-1-0078, W911NF-25-1-0147), ONR (N00014-21-1-2121, N00014-21-1-2765, N00014-22-1-2318), AFRL, DARPA, Australian DSTO Strategic Policy Grants Program, Arkansas Research Alliance, the Jerry L. Maulden/Entergy Endowment, and the Donaghey Foundation at the University of Arkansas at Little Rock.
 
 ## Citation
 
